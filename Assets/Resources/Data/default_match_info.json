@@ -1,0 +1,11 @@
+{
+  "gemsCount": 1,
+  "roundsCount": 10,
+  "levelSizeX": 15,
+  "levelSizeZ": 10,
+  "obstaclesNumber": 15,
+  "defaultUnitsMana": 3,
+  "defaultUnitsHealth": 100,
+  "manaToRegenPerRound": 1,
+  "maxDistanceToMove" : 3
+}

@@ -1,0 +1,44 @@
+{
+  "1":
+  {
+    "name": "rod",
+    "duration": 0,
+    "radius": 1,
+    "manaCost": 1
+  },
+  "2":
+  {
+    "name": "blink",
+    "duration": 0,
+    "radius": 3,
+    "manaCost": 2
+  },
+  "3":
+  {
+    "name": "shield",
+    "duration": 1,
+    "radius": 0,
+    "manaCost": 3
+  },
+  "4":
+  {
+    "name": "cloak",
+    "duration": 1,
+    "radius": 0,
+    "manaCost": 3
+  },
+  "5":
+  {
+    "name": "trap",
+    "duration": 0,
+    "radius": 4,
+    "manaCost": 3
+  },
+  "6":
+  {
+    "name": "meteor",
+    "duration": 0,
+    "radius": 4,
+    "manaCost": 2
+  }
+}

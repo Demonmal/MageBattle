@@ -1,0 +1,15 @@
+{
+    "name": "Profile",
+    "references": [
+        "GUID:1a393cef889d23245852108575e48727"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

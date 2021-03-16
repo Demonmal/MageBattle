@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3635ceef6f22bbf4183ceba48d8a77ea, type: 3}
+  m_Name: ObstaclePrefabsContainer
+  m_EditorClassIdentifier: 
+  obstaclePrefabsInfo:
+  - obstacleId: common_undestroyable
+    prefab: {fileID: 6224535710579496716, guid: 79134f60375d6294989ea4854bcfd91d,
+      type: 3}
+  - obstacleId: common_destroyable
+    prefab: {fileID: 6224535710579496716, guid: a2d686c2f47f8a8468567ce344e8ef89,
+      type: 3}
+  - obstacleId: trap_action
+    prefab: {fileID: 6224535710579496716, guid: 90ad178c7cf5f6649ac9acff68aec101,
+      type: 3}
